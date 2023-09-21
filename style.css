@@ -1,0 +1,45 @@
+h2{
+    color:rgba(216, 11, 11, 0.936)
+}
+
+.main{
+    background-color: rgb(241, 236, 236);
+    padding-left: 5px;
+    padding-top: 13px;
+}
+label{
+    width: 240px;
+    display: inline-block;
+}
+
+
+.one{
+    height: 30px;
+    width: 500px;
+    border-radius: 0.5ch;
+    border-color: rgba(193, 191, 191, 0.669);
+}
+
+.two{
+    height: 150px;
+    width: 500px;
+}
+
+.register{
+    width: 110px;
+    height: 35px;
+    background-color: rgb(7, 129, 7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0.5ch;
+    border-color: white;
+    color: white;
+}
+.register:hover{
+    width: 115px;
+    height: 40px;
+}
+.three{
+    width: 150px;
+}
